@@ -1,0 +1,26 @@
+# Computer Vision Studio - Dependencies
+# Python 3.9+
+
+# Web interface
+streamlit>=1.32.0
+
+# Computer Vision
+opencv-python>=4.9.0.80
+opencv-contrib-python>=4.9.0.80
+
+# Deep Learning / YOLO
+ultralytics>=8.1.0
+
+# MediaPipe (Google)
+mediapipe>=0.10.9
+
+# Image Processing
+Pillow>=10.2.0
+numpy>=1.24.0
+
+# Utilities
+tqdm>=4.66.0
+requests>=2.31.0
+
+# Testing
+pytest>=7.4.0
